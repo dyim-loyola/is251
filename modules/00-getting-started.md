@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "00 Getting Started"
 permalink: /modules/00-getting-started/
 module_number: "00"
+module_title: "Getting Started"
 module_date: "2026-09-01"
+previous_url: null
+previous_label: null
+next_url: "/modules/01-introduction-to-information-systems/"
+next_label: "01 Introduction to Information Systems"
 ---
-
-**Module date:** 2026-09-01
 
 # 🚀 Getting Started with IS251
 
