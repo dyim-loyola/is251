@@ -8,7 +8,7 @@ module_date: "2026-10-20"
 
 **Module date:** 2026-10-20
 
-# Module 9: Hardware and Software
+# Module 08: Hardware and Software
 
 ## 🌐 Overview
 
