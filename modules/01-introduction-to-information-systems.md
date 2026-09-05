@@ -8,7 +8,7 @@ module_date: "2026-09-01"
 
 **Module date:** 2026-09-01
 
-# Module 1 Introduction to Information Systems
+# Module 01: Introduction to Information Systems
 
 ## 📋 Module Overview
 
