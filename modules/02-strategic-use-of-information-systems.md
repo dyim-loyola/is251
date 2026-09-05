@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "02 Strategic Use of Information Systems"
 permalink: /modules/02-strategic-use-of-information-systems/
 module_number: "02"
+module_title: "Strategic Use of Information Systems"
 module_date: "2026-09-08"
+previous_url: "/modules/01-introduction-to-information-systems/"
+previous_label: "01 Introduction to Information Systems"
+next_url: "/modules/03-data-and-knowledge-management/"
+next_label: "03 Data and Knowledge Management"
 ---
-
-**Module date:** 2026-09-08
 
 # Module 02: Strategic Use of Information Systems
 
@@ -36,7 +39,7 @@ Please read the following textbook chapter and watch videos to reinforce key con
 3. **[⛓️](https://www.youtube.com/watch?v=Mcfr9zT2yK0) [Porter's Value Chain (3:51)](https://www.youtube.com/watch?v=g8p2H7EvoGM)** – How firms organize activities to be competitive.
 4. **[🎯](https://www.youtube.com/watch?v=1aHXzvIZ1ZM) [STP – Segmenting, Targeting, and Positioning (8:24)](https://youtu.be/iGOw39GWDaI)** – How to choose the right customer and market position.
 
-**Note:** Session 2 will be held at Rizzo Career Center. A meeting invitation will be sent separately, so please check your email for details.
+**Note:** Session 1 will be held at Rizzo Career Center. A meeting invitation will be sent separately, so please check your email for details.
 
 ---
 
@@ -55,8 +58,6 @@ Please read the following textbook chapter and watch videos to reinforce key con
 - 🎤 Short lecture: Strategy frameworks and the link between strategy & IT.
 - 👥 Group work in Miro: Product positioning map and process/IT improvement brainstorming.
 - 📢 Group presentations and peer feedback.
-
-Last, please fill out **this survey — available in Moodle** to prepare for class discussion. We will review the results during our in-class activities.
 
 ![](assets/image.png)
 
