@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "05 Managing Customers and Supply Chains"
 permalink: /modules/05-managing-customers-and-supply-chains/
 module_number: "05"
+module_title: "Managing Customers and Supply Chains"
 module_date: "2026-09-29"
+previous_url: "/modules/04-enterprise-systems-for-planning-resources/"
+previous_label: "04 Enterprise Systems for Planning Resources"
+next_url: "/modules/06-social-computing/"
+next_label: "06 Social Computing"
 ---
-
-**Module date:** 2026-09-29
 
 # Module 05: Managing Customers and Supply Chains
 
@@ -49,7 +52,5 @@ Please watch this video before our second session where we'll discuss CRM and SC
 - 🔍 How does technology make customer service better?
 - 🔄 Why is sharing data between CRM and SCM important?
 - ⚠️ What could go wrong if CRM and SCM are not connected?
-
-Please complete **this survey — available in Moodle** for our in-class discussion. 
 
 
