@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "04 Enterprise Systems for Planning Resources"
 permalink: /modules/04-enterprise-systems-for-planning-resources/
 module_number: "04"
+module_title: "Enterprise Systems for Planning Resources"
 module_date: "2026-09-22"
+previous_url: "/modules/03-data-and-knowledge-management/"
+previous_label: "03 Data and Knowledge Management"
+next_url: "/modules/05-managing-customers-and-supply-chains/"
+next_label: "05 Managing Customers and Supply Chains"
 ---
-
-**Module date:** 2026-09-22
 
 # Module 04: Enterprise Systems for Planning Resources
 
@@ -47,8 +50,6 @@ By the end of this session, students will be able to:
 
 - **Reading Assignment:** **Chapter 10 - Information Systems Within the Organization**: Covers transaction processing systems, functional area information systems, and enterprise resource planning systems.
 - **Watch the video**: [Intelligence Enterprise](https://youtu.be/BJj2_qTwvlk)
-
-Please complete **this survey — available in Moodle**. We will go over the results in **Module 7
 
 ---
 
