@@ -8,7 +8,7 @@ module_date: "2026-11-17"
 
 **Module date:** 2026-11-17
 
-# Module 13: Information Systems Analysis and Design
+# Module 12: Systems Analysis and Design
 
 ## 📝 Module Overview
 
