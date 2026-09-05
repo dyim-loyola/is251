@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Excel Data Analysis And Visualization For Sales Campaigns"
 permalink: /assignments/03-excel-data-analysis-and-visualization-for-sales-campaigns/
 ---
