@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "12 Systems Analysis and Design"
 permalink: /modules/12-systems-analysis-and-design/
 module_number: "12"
+module_title: "Systems Analysis and Design"
 module_date: "2026-11-17"
+previous_url: "/modules/11-artificial-intelligence-ai/"
+previous_label: "11 Artificial Intelligence AI"
+next_url: "/modules/13-security-privacy-and-ethics/"
+next_label: "13 Security Privacy and Ethics"
 ---
-
-**Module date:** 2026-11-17
 
 # Module 12: Systems Analysis and Design
 
