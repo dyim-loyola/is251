@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="content-page"><header class="content-hero"><div class="module-orb">{{ page.module_number }}</div><div><p class="eyebrow">Module {{ page.module_number }}</p><h1>{{ page.module_title }}</h1><p class="content-date">{{ page.module_date }}</p></div></header><div class="prose">{{ content }}</div><nav class="page-navigation" aria-label="Module navigation">{% if page.previous_url %}<a href="{{ site.baseurl }}{{ page.previous_url }}"><small>Previous</small><span>{{ page.previous_label }}</span></a>{% else %}<span></span>{% endif %}{% if page.next_url %}<a class="next" href="{{ site.baseurl }}{{ page.next_url }}"><small>Next</small><span>{{ page.next_label }}</span></a>{% endif %}</nav></article>
