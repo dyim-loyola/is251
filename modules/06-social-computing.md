@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "06 Social Computing"
 permalink: /modules/06-social-computing/
 module_number: "06"
+module_title: "Social Computing"
 module_date: "2026-10-06"
+previous_url: "/modules/05-managing-customers-and-supply-chains/"
+previous_label: "05 Managing Customers and Supply Chains"
+next_url: "/modules/07-business-analytics/"
+next_label: "07 Business Analytics"
 ---
-
-**Module date:** 2026-10-06
 
 # Module 06: Social Computing
 
@@ -53,8 +56,6 @@ After completing these modules, you should be ready to:
 - Open linked records and explain how the relationship works.
 
 You do not need the advanced Builder Essentials modules on interfaces, automations, synchronization, or AI features for Assignment 3.
-
-Please complete **this survey — available in Moodle** for the mid-semester assessment.
 
 ## 📝 Assessment
 
