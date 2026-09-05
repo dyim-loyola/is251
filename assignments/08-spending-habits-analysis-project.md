@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Spending Habits Analysis Project"
 permalink: /assignments/08-spending-habits-analysis-project/
 ---
