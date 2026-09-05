@@ -8,7 +8,7 @@ module_date: "2026-10-13"
 
 **Module date:** 2026-10-13
 
-# Module 8: Business Analytics
+# Module 07: Business Analytics
 
 ## 🌐 Overview
 
