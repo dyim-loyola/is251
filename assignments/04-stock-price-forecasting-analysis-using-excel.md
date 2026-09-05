@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Stock Price Forecasting Analysis Using Excel"
 permalink: /assignments/04-stock-price-forecasting-analysis-using-excel/
 ---
