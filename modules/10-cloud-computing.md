@@ -8,7 +8,7 @@ module_date: "2026-11-03"
 
 **Module date:** 2026-11-03
 
-# Module 11: Cloud Computing
+# Module 10: Cloud Computing
 
 ## ☁️ Overview
 
