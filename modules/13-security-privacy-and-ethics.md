@@ -8,7 +8,7 @@ module_date: "2026-11-24"
 
 **Module date:** 2026-11-24
 
-# Module 14: Information Security and Ethics
+# Module 13: Security Privacy and Ethics
 
 ## 📝Overview
 
