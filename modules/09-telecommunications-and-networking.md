@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "09 Telecommunications & Networking"
 permalink: /modules/09-telecommunications-and-networking/
 module_number: "09"
+module_title: "Telecommunications & Networking"
 module_date: "2026-10-27"
+previous_url: "/modules/08-hardware-and-software/"
+previous_label: "08 Hardware and Software"
+next_url: "/modules/10-cloud-computing/"
+next_label: "10 Cloud Computing"
 ---
-
-**Module date:** 2026-10-27
 
 # Module 09: Telecommunications & Networking
 
@@ -55,8 +58,6 @@ Students should watch the following videos before class to build context for our
 - [**"5G Technology Explained"**](https://youtu.be/mo1lNRKnayA)
 - [**"Smart Warehousing: 5G-Powered Robotics"**](https://youtu.be/KdI3YXWhv3E)
 - **Read**textbook**Chapter 6 - Telecommunications and Networking** and **Chapter 8 - Wireless, Mobile Computing, and Mobile Commerce**:
-
-Please **fill out this survey — available in Moodle** for in-class activities.
 
 ## 📝 Assessment
 
