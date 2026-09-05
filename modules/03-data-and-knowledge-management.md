@@ -8,7 +8,7 @@ module_date: "2026-09-15"
 
 **Module date:** 2026-09-15
 
-# Module 4: Data and Knowledge Management
+# Module 03: Data and Knowledge Management
 
 ## 📋 Module Overview
 
