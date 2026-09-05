@@ -8,7 +8,7 @@ module_date: "2026-10-06"
 
 **Module date:** 2026-10-06
 
-# Module 7: Social Computing
+# Module 06: Social Computing
 
 ## 📘 Overview
 
