@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "13 Security Privacy and Ethics"
 permalink: /modules/13-security-privacy-and-ethics/
 module_number: "13"
+module_title: "Security Privacy and Ethics"
 module_date: "2026-11-24"
+previous_url: "/modules/12-systems-analysis-and-design/"
+previous_label: "12 Systems Analysis and Design"
+next_url: null
+next_label: null
 ---
-
-**Module date:** 2026-11-24
 
 # Module 13: Security Privacy and Ethics
 
@@ -43,8 +46,6 @@ By the end of this module, students will be able to:
 
 - Read [*Vanity Fair* article](https://www.vanityfair.com/news/2021/09/instagram-head-cars-are-bad-for-people-too-but-we-still-use-them) on Facebook/Instagram and ethical dilemmas.
 - Read **Chapters 3 & 4**: Covering ethical issues, privacy concerns, security threats, and organizational protection strategies for information resources.
-
-Please **fill out this survey — available in Moodle** - we will go over the results during class
 
 ---
 
