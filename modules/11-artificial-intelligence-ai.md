@@ -8,7 +8,7 @@ module_date: "2026-11-10"
 
 **Module date:** 2026-11-10
 
-# Module 12: Artificial Intelligence
+# Module 11: Artificial Intelligence AI
 
 ## 🤖 Overview
 
