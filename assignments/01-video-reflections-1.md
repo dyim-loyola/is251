@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Video Reflections 1"
 permalink: /assignments/01-video-reflections-1/
 ---
