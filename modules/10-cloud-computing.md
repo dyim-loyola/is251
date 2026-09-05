@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "10 Cloud Computing"
 permalink: /modules/10-cloud-computing/
 module_number: "10"
+module_title: "Cloud Computing"
 module_date: "2026-11-03"
+previous_url: "/modules/09-telecommunications-and-networking/"
+previous_label: "09 Telecommunications & Networking"
+next_url: "/modules/11-artificial-intelligence-ai/"
+next_label: "11 Artificial Intelligence AI"
 ---
-
-**Module date:** 2026-11-03
 
 # Module 10: Cloud Computing
 
