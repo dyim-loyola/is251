@@ -8,7 +8,7 @@ module_date: "2026-10-27"
 
 **Module date:** 2026-10-27
 
-# Module 10: Telecommunications and Networks
+# Module 09: Telecommunications & Networking
 
 ## 🌐 Overview
 
