@@ -8,7 +8,7 @@ module_date: "2026-09-22"
 
 **Module date:** 2026-09-22
 
-# Module 5: Enterprise IS
+# Module 04: Enterprise Systems for Planning Resources
 
 ## 📋 Module Overview
 
