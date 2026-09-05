@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "08 Hardware and Software"
 permalink: /modules/08-hardware-and-software/
 module_number: "08"
+module_title: "Hardware and Software"
 module_date: "2026-10-20"
+previous_url: "/modules/07-business-analytics/"
+previous_label: "07 Business Analytics"
+next_url: "/modules/09-telecommunications-and-networking/"
+next_label: "09 Telecommunications & Networking"
 ---
-
-**Module date:** 2026-10-20
 
 # Module 08: Hardware and Software
 
