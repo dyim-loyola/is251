@@ -8,7 +8,7 @@ module_date: "2026-09-29"
 
 **Module date:** 2026-09-29
 
-# Module 6: Managing Customers and Supply Chain
+# Module 05: Managing Customers and Supply Chains
 
 ## 🔍 Module Overview
 
