@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "03 Data and Knowledge Management"
 permalink: /modules/03-data-and-knowledge-management/
 module_number: "03"
+module_title: "Data and Knowledge Management"
 module_date: "2026-09-15"
+previous_url: "/modules/02-strategic-use-of-information-systems/"
+previous_label: "02 Strategic Use of Information Systems"
+next_url: "/modules/04-enterprise-systems-for-planning-resources/"
+next_label: "04 Enterprise Systems for Planning Resources"
 ---
-
-**Module date:** 2026-09-15
 
 # Module 03: Data and Knowledge Management
 
@@ -55,7 +58,5 @@ You’ll work in groups to:
 2. Identify **3–4 entities** (e.g., Customer, Order, Product).
 3. Draw simple connections between them (e.g., Customer places Order; Order contains Product).
 4. Discuss which knowledge is **explicit** and which is **tacit**.
-
-Please fill out **this survey — available in Moodle** for our in-class activities. Results will be discussed during class session.
 
 
