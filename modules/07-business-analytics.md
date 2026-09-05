@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "07 Business Analytics"
 permalink: /modules/07-business-analytics/
 module_number: "07"
+module_title: "Business Analytics"
 module_date: "2026-10-13"
+previous_url: "/modules/06-social-computing/"
+previous_label: "06 Social Computing"
+next_url: "/modules/08-hardware-and-software/"
+next_label: "08 Hardware and Software"
 ---
-
-**Module date:** 2026-10-13
 
 # Module 07: Business Analytics
 
@@ -53,8 +56,6 @@ By the end of this session, students will be able to:
 ## 📚 Pre-Class Activities
 
 - **Textbook reading** - **Chapter 12 - Business Analytics**: Focuses on business intelligence, decision making, data analysis applications, with expanded discussion differentiating analytics from statistics and Google
-
-- Please fill out **this survey — available in Moodle** for in-class discussion.
 
 📝 Assessment
 
