@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Job Preparation Project"
 permalink: /assignments/02-job-preparation-project/
 ---
