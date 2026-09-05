@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "01 Introduction to Information Systems"
 permalink: /modules/01-introduction-to-information-systems/
 module_number: "01"
+module_title: "Introduction to Information Systems"
 module_date: "2026-09-01"
+previous_url: "/modules/00-getting-started/"
+previous_label: "00 Getting Started"
+next_url: "/modules/02-strategic-use-of-information-systems/"
+next_label: "02 Strategic Use of Information Systems"
 ---
-
-**Module date:** 2026-09-01
 
 # Module 01: Introduction to Information Systems
 
