@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Attendance and Participation"
 permalink: /assignments/09-attendance-and-participation/
 ---
