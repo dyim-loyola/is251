@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: assignment
 title: "Build a Linked Airtable Database"
 permalink: /assignments/06-build-a-linked-airtable-database/
 ---
