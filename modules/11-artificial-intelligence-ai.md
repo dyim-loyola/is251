@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: module
 title: "11 Artificial Intelligence AI"
 permalink: /modules/11-artificial-intelligence-ai/
 module_number: "11"
+module_title: "Artificial Intelligence AI"
 module_date: "2026-11-10"
+previous_url: "/modules/10-cloud-computing/"
+previous_label: "10 Cloud Computing"
+next_url: "/modules/12-systems-analysis-and-design/"
+next_label: "12 Systems Analysis and Design"
 ---
-
-**Module date:** 2026-11-10
 
 # Module 11: Artificial Intelligence AI
 
