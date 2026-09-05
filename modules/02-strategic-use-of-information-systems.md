@@ -8,7 +8,7 @@ module_date: "2026-09-08"
 
 **Module date:** 2026-09-08
 
-# Module 2: Strategic Use of Information System
+# Module 02: Strategic Use of Information Systems
 
 ## 📋 Module Overview
 
